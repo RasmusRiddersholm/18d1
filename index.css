@@ -25,13 +25,3 @@ body {
   align-items: center;        /* Group Children in Center (+axis) */
   padding: 15px 0;            /* Add padding to the top/bottom */
 }
-.material-icons {
-  font-size: 36px;
-  color: #D32F2F;
-  margin-bottom: 5px;
-}
-.main-description {
-  color: #D32F2F;
-  font-size: 12px;
-  text-align: center;
-}
